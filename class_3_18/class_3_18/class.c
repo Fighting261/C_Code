@@ -3,7 +3,7 @@
 
 int main()
 {
-	int a, b, c,max;
+	int a, b, c, max;
 	printf("请输入三个整数\n");
 	scanf("%d%d%d", &a, &b, &c);
 
