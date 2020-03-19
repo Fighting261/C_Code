@@ -16,9 +16,9 @@ int main()//三个整数排序
 	}
 	if (b < c)
 	{
-	    t = b; b = c; c = t;
+		t = b; b = c; c = t;
 	}
-		printf("从大到小排列是：%d%d%d\n", a, b, c);
-		printf("从小到大排列是：%d%d%d\n", c, b, a);
+	printf("从大到小排列是：%d%d%d\n", a, b, c);
+	printf("从小到大排列是：%d%d%d\n", c, b, a);
 	return 0;
 }
