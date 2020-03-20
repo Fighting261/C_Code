@@ -12,5 +12,5 @@ int main()
 			printf("%dÄêÊÇÈòÄê\n", i);
 	   }
 
-	return 0;
+	 return 0;
 }
