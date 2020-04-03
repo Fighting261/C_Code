@@ -58,7 +58,7 @@
 //}
 ////写一个函数返回参数二进制中 1 的个数。
 //#include <stdio.h>
-//int num_1(int num)
+//int num_1(unsigned int num)
 //{
 //	int count = 0;
 //	while (num)
